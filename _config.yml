@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://mnd-assets.mynewsdesk.com/image/upload/c_limit,dpr_auto,f_auto,q_auto:good,w_600/l4nu91s9xv52yndpytjioh
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
